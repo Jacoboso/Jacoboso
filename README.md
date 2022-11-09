@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jacoboso?theme=dark&font=Content&ext=contest)
 
 <!--
 **Jacoboso/Jacoboso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
